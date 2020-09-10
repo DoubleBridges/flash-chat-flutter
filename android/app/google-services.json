@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740510809719",
+    "firebase_url": "https://flash-chat-2bf27.firebaseio.com",
+    "project_id": "flash-chat-2bf27",
+    "storage_bucket": "flash-chat-2bf27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740510809719:android:57e2a5139ca64750839072",
+        "android_client_info": {
+          "package_name": "co.doublebridges.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740510809719-hnshf1tqb099emmg5530c01tkg2jq9nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcr9cfoA2GWahF0PjghqAw3qwBgV6hRpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740510809719-hnshf1tqb099emmg5530c01tkg2jq9nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
